@@ -13,7 +13,8 @@ Read-only: no keys, no trading. Runs on free RPC.
 
 ## Sample output
 
-A live run on 19 Oct 2026, watching 11 wallets that had just traded on fresh PumpSwap pools, public RPC:
+A live run on 19 Oct 2026, watching 11 wallets that had just traded on fresh PumpSwap pools, on the public RPC with
+`MIN_SOL=0.01` and `RPC_MAX_RPS=1`:
 
 ```
 2026-10-19T10:07:42.730Z connected, watching 11 wallet(s)
