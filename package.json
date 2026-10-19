@@ -1,0 +1,26 @@
+{
+  "name": "solana-wallet-tracker",
+  "version": "1.0.0",
+  "description": "Real-time Solana wallet tracker: buys and sells of any token, read from balance changes, with Telegram alerts. Read-only.",
+  "type": "module",
+  "license": "MIT",
+  "author": "Artem Vartanov",
+  "engines": {
+    "node": ">=22.9"
+  },
+  "scripts": {
+    "start": "node --env-file-if-exists=.env --import tsx src/main.ts watch",
+    "inspect": "node --env-file-if-exists=.env --import tsx src/main.ts inspect",
+    "fixture": "node --env-file-if-exists=.env --import tsx scripts/fetch-tx.ts",
+    "test": "node --import tsx --test test/*.test.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@solana/web3.js": "1.98.4"
+  },
+  "devDependencies": {
+    "@types/node": "22.20.1",
+    "tsx": "4.23.12",
+    "typescript": "5.9.3"
+  }
+}
