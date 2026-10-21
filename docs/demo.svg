@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="929" height="176" viewBox="0 0 929 176" role="img" aria-label="solana-wallet-tracker — live run, 19 Oct 2026">
+<rect x="0.5" y="0.5" width="928" height="175" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M0.5 30 V10.5 A10 10 0 0 1 10.5 0.5 H918.5 A10 10 0 0 1 928.5 10.5 V30 Z" fill="#161b22"/>
+<line x1="0.5" y1="30" x2="928.5" y2="30" stroke="#30363d"/>
+<circle cx="18" cy="15.5" r="5.5" fill="#ff5f57"/><circle cx="36" cy="15.5" r="5.5" fill="#febc2e"/><circle cx="54" cy="15.5" r="5.5" fill="#28c840"/>
+<text x="464" y="20" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">solana-wallet-tracker — live run, 19 Oct 2026</text>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,Liberation Mono,monospace" font-size="13">
+<text x="18" y="50" xml:space="preserve"><tspan fill="#f0f6fc" font-weight="600">2026-10-19T10:07:42.730Z connected, watching 11 wallet(s)</tspan></text>
+<text x="18" y="69" xml:space="preserve"><tspan fill="#3fb950" font-weight="600">[BUY]</tspan><tspan fill="#c9d1d9"> trader 9 (FHpc…7wCT) · 0.023 SOL → 2.76 USDC @ 8.209e-3 SOL · tx 4ERY…MccX · 10:07:48 UTC</tspan></text>
+<text x="18" y="88" xml:space="preserve"><tspan fill="#3fb950" font-weight="600">[BUY]</tspan><tspan fill="#c9d1d9"> trader 5 (GU3W…3QfT) · 0.082 SOL → 56.34 EMe6…pump @ 1.454e-3 SOL · tx 43Fq…XMbQ ·</tspan></text>
+<text x="18" y="107" xml:space="preserve"><tspan fill="#c9d1d9">  10:08:03 UTC</tspan></text>
+<text x="18" y="126" xml:space="preserve"><tspan fill="#f0f6fc" font-weight="600">2026-10-19T10:08:12.529Z falling behind: 1 notification(s) dropped at 1 req/s — use a faster</tspan></text>
+<text x="18" y="145" xml:space="preserve"><tspan fill="#c9d1d9">  RPC and raise RPC_MAX_RPS</tspan></text>
+</g></svg>

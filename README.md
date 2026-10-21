@@ -1,7 +1,11 @@
 # solana-wallet-tracker
 
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) ![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178C6?logo=typescript&logoColor=white) ![Node](https://img.shields.io/badge/node-%E2%89%A522.9-339933?logo=node.js&logoColor=white) ![Solana](https://img.shields.io/badge/Solana-mainnet-9945FF?logo=solana&logoColor=white) ![Read-only](https://img.shields.io/badge/read--only-no%20keys-2ea44f)
+
 Real-time alerts when the Solana wallets you watch buy or sell — any token, on any DEX.
 Read-only: no keys, no trading. Runs on free RPC.
+
+<p align="center"><img src="docs/demo.svg" alt="Live run on 19 Oct 2026: two buys by watched wallets and a back-pressure warning on the public RPC" width="760"></p>
 
 ## What it does
 
